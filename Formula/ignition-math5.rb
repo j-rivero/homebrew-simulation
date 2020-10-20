@@ -5,6 +5,7 @@ class IgnitionMath5 < Formula
   sha256 "f28aa11f8f292e70cc8a0427452fa4548390408ec9b6df88d5b221dde0d42d1c"
   license "Apache-2.0"
   version_scheme 1
+  revision 1
 
   head "https://github.com/ignitionrobotics/ign-math", branch: "ign-math5"
 
